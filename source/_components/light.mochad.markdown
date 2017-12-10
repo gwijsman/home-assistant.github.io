@@ -30,3 +30,4 @@ Configuration variables:
 - **address** (*Required*): The X10 address of the light.
 - **name** (*Optional*): The name of the switch. Default is: x10_light_dev_*address*.
 - **comm_type** (*Optional*): pl (powerline) or rf (radio frequency). Default is pl.
+- **max_xdim_value** (*Optional*): The maximum value for xdim for this light. Default is 255
